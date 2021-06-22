@@ -1,4 +1,4 @@
-// Author:
+// Author: Ronin YJ
 
 // Global UI Variables
 //let canvasDiv;
